@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dhruv Rao
 
-<!--
-**DhruvRao745/DhruvRao745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about AI, automation, and data engineering.
 
-Here are some ideas to get you started:
+## Skills
+Python  
+Machine Learning  
+Web Scraping  
+Flask  
+Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Web Data Extraction Pipeline  
+Python scraper that extracts structured datasets from static and dynamic web pages.
+
+AI Career Guidance Platform  
+AI-powered system recommending career paths based on interests and skills.
+
+Multiple Disease Prediction System  
+Machine learning models predicting diseases based on patient symptoms.
+
+## Currently Learning
+Data engineering  
+Automation systems  
+LLM applications
